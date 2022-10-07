@@ -1,0 +1,30 @@
+.heading {
+  font-size: 40px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.fest {
+  text-align: center;
+  margin-left: 500px;
+  font-weight: bold;
+  text-transform: uppercase;
+  background-color: pink;
+  font-size: 25px;
+}
+.button {
+  background-color: red;
+  color: white;
+}
+.button:hover {
+  background-color: white;
+  color: red;
+}
+.border {
+  border: 5px solid black;
+  width: auto;
+  text-align: center;
+  background-color: azure;
+}
+* {
+  font-size: 20px;
+}
